@@ -1,0 +1,5 @@
+Realicé un merge y resolví por los datos de la github,
+Sin embargo, este escrito debe verse en github para comprobar que la sincronizacion es correcta.
+
+Autor.
+Junior Rivas
