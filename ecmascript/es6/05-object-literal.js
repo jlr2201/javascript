@@ -21,4 +21,3 @@ function newUser(user, age, country, uId) {
 
 console.log(newUser("gndx", 34, "MX", 1));
 
-// Seguir en el 11
