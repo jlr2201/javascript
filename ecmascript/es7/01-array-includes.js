@@ -7,5 +7,3 @@ console.log(numbers.includes(4));
 const list = ['oscar', 'David', 'Ana'];
 console.log(list.includes('Oscar'));
 
-
-// Continuar en cap. 19 
