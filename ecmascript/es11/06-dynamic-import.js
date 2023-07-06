@@ -5,5 +5,3 @@ button.addEventListener("click", async function () {
     console.log(module);
     module.hello();
 });
-
-// Continuar en la clase 31 es12
