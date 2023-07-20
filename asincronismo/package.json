@@ -1,0 +1,15 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "lmaster jlr2201@gmail.com",
+  "license": "MIT"
+}
