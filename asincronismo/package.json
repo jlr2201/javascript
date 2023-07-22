@@ -11,5 +11,7 @@
     "asincronismo"
   ],
   "author": "lmaster jlr2201@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "type" : "module"
+
 }
