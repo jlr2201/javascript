@@ -23,7 +23,3 @@ const anotherFunction = async (urlApi) => {
 }
 
 anotherFunction(API)
-
-/*
-Continuar con la clase 19
-*/
