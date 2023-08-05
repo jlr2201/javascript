@@ -1,0 +1,42 @@
+COMANDO BÁSICOS DE NPM
+
+1. npm init, inicializa un proyecto de node,
+
+2. Explicación de los campos de package.json:
+    “name”: “npm-init” —> Podemos ponerle un nombre sin embargo toma por defecto el de la carpeta.
+
+    “version”: “1.0.0” —> Podemos cambiar segun el caso, dependiendo un cambio mayor o uno menor
+
+    “description”:"" —> Podemos hacer una breve descripcion del proyecto.
+
+    “entry point”: “(index.js)” —> Punto de entrada del proyecto.
+
+    “test command”: —> Podemos incluir los comandos para validar nuestro codigo.
+
+    “git repository”: —> Podemos incluir el repositorio para mantenerlo en la nube
+
+    “keywords”: [“javascript”, “angular”, “node”] —> Que va a utilizar nuestro proyecto.
+
+    “author”: "Alexa Pulido<pulidoaleXXXXXXX> —> Persona que crea el proyecto
+
+    “license”: “MIT” —> Licencias, la mas utilizada es MIT, permite distribuir nuestro codigo.
+
+3. npm install name-app --save-dev or -D, dependencia que solo se usará en el entorno de desarrollo.
+
+4. npm install --save or -S, dependecia para ser llevada a producción.
+
+5. npm install -g, instala paquetes globales
+
+6. npm list, lista los paquetes instalados en el proyecto. npm list -g, los paquetes globales.
+
+7. npm install package-name -o → Instalar una dependencia opcional.
+
+8. npm install package-name —dry-run. Con esto se simula la instalación pero sin agregar ningún paquete, si no hay ningún conflicto se procede a instalar de la manera convencional.
+
+9. npm install package-name@0.15.0 → Instalar la versión especifica de un paquete. Si luego se quiere instalar la versión más reciente se usa: npm install package-name@latest.
+
+10. npm install → Instala las dependencias que estén dentro de un package.json.
+
+
+NPX
+Permite ejecutar instancias de dependecias sin descargarlas e instalarlas.
