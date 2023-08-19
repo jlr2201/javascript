@@ -37,6 +37,22 @@ COMANDO BÁSICOS DE NPM
 
 10. npm install → Instala las dependencias que estén dentro de un package.json.
 
+11. npm audit → Información detallada de la actualización de las librerías.
+
+12. npm audit --json → Información detallada y organizada de la auditoría en formato json.
+
+13. npm audit fix → Corrige los errores, si usamos --force lo forzamos a actualizar.
+
+14. npm uninstall nombre-dependecia → eliminar una dependencia instalada. Otra forma es borrarla del package-json, el paso siguiende es ejecutar: rm -rf node_modules/ y luego volver a ejecutar npm install.
+
+15. npm run build → Compila el proyecto y lo prepara para producción, --dd nos da más Información.
+
+16. npm ci → librerías depreciadas que ya no estarán en producción.
+
+
 
 NPX
 Permite ejecutar instancias de dependecias sin descargarlas e instalarlas.
+
+Continuar en la CLASE 12
+
