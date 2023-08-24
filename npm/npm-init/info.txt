@@ -49,10 +49,19 @@ COMANDO BÁSICOS DE NPM
 
 16. npm ci → librerías depreciadas que ya no estarán en producción.
 
+17. npm a dduser → permite iniciar sesión en nuestra cuenta npm.
 
+18. npm publish →  Nos permite publicar  un paquete.
+
+19. npm version patch → Aumenta una version path (1.0.0) -> (1.0.1)
+
+20. npm version minor → Aumenta una version minor (1.0.0) -> (1.1.0)
+
+21. npm version major → Aumenta una version major (1.0.0) -> (2.0.0)
+
+22. npm version `` → Aumenta una version específica (1.0.0) -> (3.1.1)
 
 NPX
 Permite ejecutar instancias de dependecias sin descargarlas e instalarlas.
 
-Continuar en la CLASE 12
 
